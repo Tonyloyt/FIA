@@ -28,4 +28,7 @@ Dataset from zindi Africa competion - [Financial Inclusion in Africa](https://zi
 On modelling part i have used `RandomForestClassifier`algorithm since it was classification task , before selecting  `RandomForestClassifier` i tried  other algorithms such as `Decisin Tree`,`Adaboost`,`Logistic Regression`,`SVM` but `RandomForestClassifier` proved to be better compared to other algorithms using `Accuracy` as Evaluation Metric.
 
 
+You can test the Web App [here](https://financi.herokuapp.com/)
+
+
 ![End Banner](https://github.com/Tonyloyt/My_flutter_path/blob/main/images/profile%20banner.png)
