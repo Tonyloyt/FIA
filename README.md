@@ -22,6 +22,10 @@ Dataset from zindi Africa competion - [Financial Inclusion in Africa](https://zi
 - Online prediction can be done by filling individual details then perform prediction but this can not be effective to the one having records on spreadsheets.
 - Batch prediction - here you can upload your spreadsheet with multiple individual detail and prediction can be done onces for all.
 
+<p align="center">
+    <img src="https://github.com/Tonyloyt/Email-Automation-with-python/blob/main/images/FIA.gif" width="800" height="450"/>
+</p>
+
 
 ## ABOUT MODELING
 
